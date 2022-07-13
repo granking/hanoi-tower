@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanoi-tower/static/css/main.89ca9a06.css",
+    "main.js": "/hanoi-tower/static/js/main.6b08de21.js",
+    "static/js/787.a299382b.chunk.js": "/hanoi-tower/static/js/787.a299382b.chunk.js",
+    "index.html": "/hanoi-tower/index.html",
+    "main.89ca9a06.css.map": "/hanoi-tower/static/css/main.89ca9a06.css.map",
+    "main.6b08de21.js.map": "/hanoi-tower/static/js/main.6b08de21.js.map",
+    "787.a299382b.chunk.js.map": "/hanoi-tower/static/js/787.a299382b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ca9a06.css",
+    "static/js/main.6b08de21.js"
+  ]
+}
